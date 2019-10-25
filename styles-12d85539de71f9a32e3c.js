@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{154:function(c,n,e){},158:function(c,n,e){c.exports={candidateBlocks:"constituency-module--candidateBlocks--3pA0G",candidateBlock:"constituency-module--candidateBlock--XIzRZ",candidateName:"constituency-module--candidateName--2ckS3",candidateFinanceBlock:"constituency-module--candidateFinanceBlock--fmDel",candidateFinanceDetailBlock:"constituency-module--candidateFinanceDetailBlock--gMtF4"}}}]);
-//# sourceMappingURL=styles-12d85539de71f9a32e3c.js.map
